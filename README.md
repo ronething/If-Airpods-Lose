@@ -1,27 +1,24 @@
-# airpods
+# If Airpods Lose
 
-## Project setup
+## Introduction
+
+🍋 使用 [vue-fullpage](https://github.com/alvarotrigo/vue-fullpage.js) 实现的一个超简单 [DEMO](https://contact.ronething.cn) 不要喷我。。嘻嘻
+
+只是预防有一天真的丢了 AirPods 哪个有心人真的上来网站看一下。😁
+
+![刚到的 AirPods](https://raw.githubusercontent.com/ronething/Image-Hosting/master/img/20190406205553.png)
+
+## Development
+
 ```
 yarn install
-```
-
-### Compiles and hot-reloads for development
-```
+// dev
 yarn run serve
-```
-
-### Compiles and minifies for production
-```
+// build
 yarn run build
-```
-
-### Run your tests
-```
+// test
 yarn run test
-```
-
-### Lints and fixes files
-```
+// Lints and fixes files
 yarn run lint
 ```
 
